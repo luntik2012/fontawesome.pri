@@ -149,6 +149,7 @@ Object {
     property string chain : "\uf0c1"
     property string chainBroken : "\uf127"
     property string check : "\uf00c"
+    property string checkDouble : "\uf560"
     property string checkCircle : "\uf058"
     property string checkCircleO : "\uf05d"
     property string checkSquare : "\uf14a"
