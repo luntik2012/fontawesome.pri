@@ -268,6 +268,7 @@ Object {
     property string fileArchiveO : "\uf1c6"
     property string fileAudioO : "\uf1c7"
     property string fileCodeO : "\uf1c9"
+    property string fileCsv: "\uf6dd"
     property string fileExcelO : "\uf1c3"
     property string fileImageO : "\uf1c5"
     property string fileMovieO : "\uf1c8"
