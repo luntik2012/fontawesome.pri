@@ -4,7 +4,6 @@ var fs = require('fs');
 
 if (process.argv.length <= 2) {
     console.log("node convert.js _variables.scss");
-    return;
 }
 
 var file = process.argv[2];
