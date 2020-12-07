@@ -14,5 +14,4 @@ find_package(Qt5QuickCompiler)
 add_library(${PROJECT_NAME} STATIC fontawesome.h fontawesome.qrc)
 
 target_include_directories(${PROJECT_NAME} PUBLIC ${PROJECT_SOURCE_DIR})
-qt5_use_modules(${PROJECT_NAME} Core Qml)
 target_link_libraries(${PROJECT_NAME} Qt5::Core Qt5::Qml)
